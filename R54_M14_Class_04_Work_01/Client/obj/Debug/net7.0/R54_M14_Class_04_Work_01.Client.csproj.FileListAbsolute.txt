@@ -1,0 +1,1088 @@
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\blazor.boot.json
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\blazor.webassembly.js
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\dotnet.7.0.12.udg79w5m7w.js
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\dotnet.timezones.blat
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\dotnet.wasm
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\icudt.dat
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\icudt_CJK.dat
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\icudt_EFIGS.dat
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\icudt_no_CJK.dat
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.DataAnnotations.Validation.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.CSharp.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.EntityFrameworkCore.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Caching.Abstractions.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Caching.Memory.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Http.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.JSInterop.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\mscorlib.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\netstandard.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\R54_M14_Class_04_Work_01.Client.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\R54_M14_Class_04_Work_01.Client.pdb
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\R54_M14_Class_04_Work_01.Shared.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\R54_M14_Class_04_Work_01.Shared.pdb
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.AppContext.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Buffers.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Concurrent.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Collections.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Immutable.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Specialized.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Configuration.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Console.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Core.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Data.Common.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Data.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Process.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Drawing.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Drawing.Primitives.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Formats.Asn1.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Formats.Tar.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Globalization.Calendars.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Globalization.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Globalization.Extensions.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipelines.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipes.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Linq.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Expressions.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Parallel.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Queryable.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Memory.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.Http.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.Http.Json.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.HttpListener.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.Mail.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.NameResolution.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.Ping.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.Primitives.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.Quic.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.Requests.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.Security.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.ServicePoint.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.Sockets.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebClient.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebProxy.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebSockets.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Numerics.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Numerics.Vectors.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.ObjectModel.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Private.CoreLib.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Private.Uri.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Private.Xml.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Extensions.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Metadata.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Primitives.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Resources.Reader.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Resources.Writer.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Extensions.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Handles.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.InteropServices.JavaScript.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Loader.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Numerics.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.AccessControl.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.Claims.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.Principal.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.SecureString.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.ServiceModel.Web.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.ServiceProcess.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Text.Json.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Channels.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Threading.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Overlapped.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Thread.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Timer.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Transactions.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Transactions.Local.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.ValueTuple.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Web.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Web.HttpUtility.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Windows.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Xml.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Xml.Linq.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Xml.Serialization.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XDocument.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XPath.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\WindowsBase.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Web.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.Requests.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\icudt_CJK.dat.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Globalization.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Drawing.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\R54_M14_Class_04_Work_01.Client.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\dotnet.7.0.12.udg79w5m7w.js.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.ValueTuple.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.Ping.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Core.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.EntityFrameworkCore.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.DataAnnotations.Validation.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.AppContext.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\dotnet.wasm.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.Security.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\dotnet.timezones.blat.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Caching.Memory.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.ObjectModel.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Text.Json.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.Quic.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\R54_M14_Class_04_Work_01.Client.pdb.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Http.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\icudt.dat.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Transactions.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.EntityFrameworkCore.Abstractions.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\netstandard.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Buffers.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Threading.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Data.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Linq.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\R54_M14_Class_04_Work_01.Shared.pdb.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Windows.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Private.Xml.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Private.Uri.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Xml.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\blazor.webassembly.js.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\R54_M14_Class_04_Work_01.Shared.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Caching.Abstractions.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Console.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Formats.Tar.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Collections.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\WindowsBase.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.Principal.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Memory.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Data.Common.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.Mail.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.Http.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Numerics.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.InteropServices.JavaScript.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Configuration.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\mscorlib.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.Claims.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\libman.json
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\R54_M14_Class_04_Work_01.Client.staticwebassets.runtime.json
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\R54_M14_Class_04_Work_01.Client.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\R54_M14_Class_04_Work_01.Client.pdb
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\Microsoft.AspNetCore.Components.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\Microsoft.AspNetCore.Components.DataAnnotations.Validation.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Web.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Json.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\Microsoft.Extensions.Http.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\Microsoft.JSInterop.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\Microsoft.JSInterop.WebAssembly.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.IO.Pipelines.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\Microsoft.CSharp.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\Microsoft.VisualBasic.Core.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\Microsoft.VisualBasic.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\Microsoft.Win32.Primitives.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\Microsoft.Win32.Registry.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.AppContext.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Buffers.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Collections.Concurrent.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Collections.Immutable.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Collections.NonGeneric.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Collections.Specialized.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Collections.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.ComponentModel.Annotations.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.ComponentModel.DataAnnotations.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.ComponentModel.EventBasedAsync.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.ComponentModel.Primitives.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.ComponentModel.TypeConverter.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.ComponentModel.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Configuration.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Console.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Core.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Data.Common.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Data.DataSetExtensions.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Data.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Diagnostics.Contracts.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Diagnostics.Debug.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Diagnostics.DiagnosticSource.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Diagnostics.FileVersionInfo.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Diagnostics.Process.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Diagnostics.StackTrace.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Diagnostics.TextWriterTraceListener.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Diagnostics.Tools.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Diagnostics.TraceSource.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Diagnostics.Tracing.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Drawing.Primitives.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Drawing.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Dynamic.Runtime.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Formats.Asn1.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Formats.Tar.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Globalization.Calendars.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Globalization.Extensions.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Globalization.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.IO.Compression.Brotli.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.IO.Compression.FileSystem.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.IO.Compression.ZipFile.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.IO.Compression.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.IO.FileSystem.AccessControl.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.IO.FileSystem.DriveInfo.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.IO.FileSystem.Primitives.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.IO.FileSystem.Watcher.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.IO.FileSystem.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.IO.IsolatedStorage.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.IO.MemoryMappedFiles.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.IO.Pipes.AccessControl.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.IO.Pipes.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.IO.UnmanagedMemoryStream.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.IO.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Linq.Expressions.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Linq.Parallel.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Linq.Queryable.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Linq.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Memory.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Net.Http.Json.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Net.Http.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Net.HttpListener.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Net.Mail.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Net.NameResolution.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Net.NetworkInformation.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Net.Ping.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Net.Primitives.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Net.Quic.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Net.Requests.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Net.Security.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Net.ServicePoint.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Net.Sockets.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Net.WebClient.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Net.WebHeaderCollection.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Net.WebProxy.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Net.WebSockets.Client.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Net.WebSockets.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Net.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Numerics.Vectors.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Numerics.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.ObjectModel.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Private.DataContractSerialization.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Private.Uri.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Private.Xml.Linq.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Private.Xml.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Reflection.DispatchProxy.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Reflection.Emit.ILGeneration.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Reflection.Emit.Lightweight.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Reflection.Emit.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Reflection.Extensions.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Reflection.Metadata.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Reflection.Primitives.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Reflection.TypeExtensions.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Reflection.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Resources.Reader.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Resources.ResourceManager.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Resources.Writer.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Runtime.CompilerServices.VisualC.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Runtime.Extensions.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Runtime.Handles.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Runtime.InteropServices.JavaScript.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Runtime.InteropServices.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Runtime.Intrinsics.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Runtime.Loader.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Runtime.Numerics.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Runtime.Serialization.Formatters.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Runtime.Serialization.Json.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Runtime.Serialization.Primitives.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Runtime.Serialization.Xml.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Runtime.Serialization.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Runtime.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Security.AccessControl.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Security.Claims.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Security.Cryptography.Algorithms.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Security.Cryptography.Cng.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Security.Cryptography.Csp.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Security.Cryptography.Encoding.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Security.Cryptography.OpenSsl.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Security.Cryptography.Primitives.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Security.Cryptography.X509Certificates.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Security.Cryptography.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Security.Principal.Windows.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Security.Principal.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Security.SecureString.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Security.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.ServiceModel.Web.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.ServiceProcess.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Text.Encoding.CodePages.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Text.Encoding.Extensions.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Text.Encoding.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Text.Json.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Text.RegularExpressions.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Threading.Channels.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Threading.Overlapped.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Threading.Tasks.Dataflow.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Threading.Tasks.Extensions.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Threading.Tasks.Parallel.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Threading.Tasks.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Threading.Thread.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Threading.ThreadPool.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Threading.Timer.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Threading.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Transactions.Local.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Transactions.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.ValueTuple.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Web.HttpUtility.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Web.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Windows.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Xml.Linq.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Xml.ReaderWriter.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Xml.Serialization.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Xml.XDocument.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Xml.XPath.XDocument.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Xml.XPath.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Xml.XmlDocument.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Xml.XmlSerializer.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Xml.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\WindowsBase.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\mscorlib.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\netstandard.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\System.Private.CoreLib.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\dotnet.js
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\dotnet.timezones.blat
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\dotnet.wasm
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\icudt.dat
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\icudt_CJK.dat
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\icudt_EFIGS.dat
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\icudt_no_CJK.dat
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\R54_M14_Class_04_Work_01.Shared.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\bin\Debug\net7.0\R54_M14_Class_04_Work_01.Shared.pdb
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\R54_M14_Class_04_Work_01.Client.csproj.AssemblyReference.cache
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\R54_M14_Class_04_Work_01.Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\R54_M14_Class_04_Work_01.Client.AssemblyInfoInputs.cache
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\R54_M14_Class_04_Work_01.Client.AssemblyInfo.cs
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\R54_M14_Class_04_Work_01.Client.csproj.CoreCompileInputs.cache
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\R54_M14_Class_04_Work_01.Client.MvcApplicationPartsAssemblyInfo.cache
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\PQ7WG2xW.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\SlD9DVza.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\DdIPOx8+.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\xFAtmpLn.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\KuU6oj5y.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\75Hy+9+T.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\ZnSiTwYX.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\bPhZ+fMy.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\IMi0F2Ns.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\sWHil4u5.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\FRIZl8+g.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\aIO+Hzfb.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\uw0Lf4Kp.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\ar2u32K8.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\55l4Vtxx.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\10KMDLYn.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\HcyLFkY6.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\qdhbCsGa.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\fB8cwGuF.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\zanV722v.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\L3B+fMnB.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\hOYDzALK.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\jsdMse8c.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\9i5DhjpV.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\r1A+AZ+d.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\8EzmPhZ+.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\PlS3YxD2.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\3K2lrqFV.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\KV5XaUnN.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\FlSL4C8Y.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\z4hJVDU+.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\XU6Mp2iq.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\H++Y1+Y2.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\ZUBWwXGF.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\DhG9J5gc.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\j2V5XmKZ.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\Z+cbr6F9.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\FUakGP+9.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\YkABwpyA.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\LG32zktT.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\ukDHxHko.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\SeoJSZn1.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\xVAugOgb.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\LxhOWC3u.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\paScbHzs.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\p2aG0jeL.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\QMSK+5rQ.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\YiRlRnmf.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\TMAj+l1y.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\bkg+CRJh.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\WfvUIGj9.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\9BN2hDVL.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\lcDuOdgs.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\PO+XoYlU.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\V3GF80pN.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\ds519SW4.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\83uKteqf.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\goulaOVJ.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\Qu1g2Sfc.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\SutP5gn9.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\5vUNo+MY.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\TS5rwhHx.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\eZr5Hlv4.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\oG1eBZSw.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\2HTlkKay.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\nHTUzuhf.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\Kv+Yc2+A.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\uj4N+lRM.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\ssY6aTcB.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\V2DqIOAo.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\0OI4HcH+.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\uFIv9WOu.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\fwu+tlla.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\a2i0buay.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\cYxi2Fg0.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\zsxlyJLG.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\nKsgbkyc.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\eUifjc1k.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\iLVsGfk+.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\ZaU2Pz7r.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\rFgzOD1O.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\L+mF8OJw.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\gS2tGKcG.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\SpaJ1pJS.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\MWt9aa+3.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\Szi0AMyS.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\Ga8m1XSI.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\sQDy+162.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\vr3hkUhS.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\lFwZtNC+.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\weCcCuZW.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\ZBZyC+dm.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\XzG2oGyT.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\6RgKaEYs.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\xBAkBSgn.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\BbVCOxGK.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\5g0gm9yz.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\5KRwG5TW.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\N21Wz+XZ.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\gZbRXTMO.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\03aMx3hc.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\eYAMU1jq.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\xR0NV6vy.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\fD+sAfrV.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\igD2wnNY.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\zwMDPbJE.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\trY0yC1B.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\j3QFnSBH.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\BoexQhl+.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\TJdVlhAk.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\Ohme+Hrj.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\Y68hgPGL.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\Fs12DzRf.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\w8v3sjlz.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\nxkkAIwp.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\Z0ntkmO9.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\nKH9i0+A.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\qaGRlIx4.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\DZRlpxR9.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\KxSeJvrc.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\a36BlKxB.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\qER1Tlj9.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\vHkNO+wR.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\NA7rXs75.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\1IZhmeip.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\agvJ4YYa.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\kc3zkXeU.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\em7QMf3G.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\kZIXrS4I.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\edmFeFiW.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\KJr+zkPf.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\Xcu1Ut+Y.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\ir1rVYgu.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\YcTvS2j3.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\h+L9nLKY.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\2gNk7UO+.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\Y7ysnWU0.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\fgyDL8F7.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\blwaXc8e.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\0esAhdHE.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\QEYacusU.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\mHoeyfsU.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\q4k+MjwL.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\SC0FCE0i.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\TjPzIWC6.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\vj+Bb5s4.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\zPq1Wli+.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\M5iUTed8.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\tHPtiUyN.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\Oy7O3XkK.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\EScEAyw9.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\oppv45uf.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\r2y+Rf0D.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\v+XSHcc9.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\yPlLJThp.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\ZavS7R5N.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\vd9zKl4P.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\7AuwJnWA.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\SDYgP5Kp.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\r9kKInKG.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\i7Awev1K.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\Do4j2fkQ.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\PlGunnLc.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\ONW4Sjco.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\CPxmShnZ.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\gpJ4UlKN.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\Ikw+4n6+.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\lI59UV1D.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\IC8B37SW.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\9iPOMosm.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\SRQ756Ny.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\qbT8QK9s.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\Gcw6AwRo.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\z+Y0jLCw.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\BqSivLv2.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\jHIU6El1.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\KSIOGRxA.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\Y44YoU6n.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\iM0A3FiX.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\4gbZ+ZCw.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\GmBiriIV.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\+VZtNVWV.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\mKEKKkm7.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\Pld+PvoO.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\x7V0IGTN.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\zoHbeeUw.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\ZRK6nIqh.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\zc+DnnkS.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\tVjoZHuP.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\wCg1ElWf.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\AvcSHT0+.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\NYD9PxMU.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\+t16YY8P.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\UyIhEtw8.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\yRTEt5ha.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\IONpU0VZ.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\TmDDqJ36.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\3nnQElyR.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\fA8C2Y6b.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\eSUxOoKq.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\ibsDbCyA.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\0FOSigVj.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\fOVVVgVc.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\5+GdghMw.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\RLhieLYn.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\Me9eM9H+.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\2lEIbeyq.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\HEffqnjp.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\P3A3IB2i.gz
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\blazor.boot.json
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\staticwebassets\msbuild.R54_M14_Class_04_Work_01.Client.Microsoft.AspNetCore.StaticWebAssets.props
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\staticwebassets\msbuild.build.R54_M14_Class_04_Work_01.Client.props
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.R54_M14_Class_04_Work_01.Client.props
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.R54_M14_Class_04_Work_01.Client.props
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\staticwebassets.pack.json
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\staticwebassets.build.json
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\staticwebassets.development.json
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\scopedcss\bundle\R54_M14_Class_04_Work_01.Client.styles.css
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\scopedcss\projectbundle\R54_M14_Class_04_Work_01.Client.bundle.scp.css
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\R54_M14_Class_04_Work_01.Client.csproj.CopyComplete
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\R54_M14_Class_04_Work_01.Client.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\refint\R54_M14_Class_04_Work_01.Client.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\R54_M14_Class_04_Work_01.Client.pdb
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\ref\R54_M14_Class_04_Work_01.Client.dll
+D:\R54\M14\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\scopedcss\Pages\Product\List.razor.rz.scp.css
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\R54_M14_Class_04_Work_01.Client.csproj.AssemblyReference.cache
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\R54_M14_Class_04_Work_01.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\R54_M14_Class_04_Work_01.Client.AssemblyInfoInputs.cache
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\R54_M14_Class_04_Work_01.Client.AssemblyInfo.cs
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\R54_M14_Class_04_Work_01.Client.csproj.CoreCompileInputs.cache
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\R54_M14_Class_04_Work_01.Client.MvcApplicationPartsAssemblyInfo.cache
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\XJUwaNio.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\DrRE18z+.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\If9cfbSW.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\lejc0YUG.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\jNPgVTwR.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\tfU8gb+R.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\yv0hgDZV.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\4fU28SJt.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\4H32qKNE.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\Z4d3JqV1.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\BER5UcBF.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\p0lwnU7i.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\7zrxiy++.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\R1ZEjUBq.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\iUICW+zk.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\0Ld9mGWA.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\JSRNSFtk.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\1u4VAeny.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\nvzgHSuc.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\H75Grc1y.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\gN8xaupS.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\sSN1sMVk.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\89xrlpNm.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\sgScYZ+q.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\Gx9Y8o+r.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\8mDlxw4A.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\2gmqwduS.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\wS+qAZbo.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\0WXMiyAn.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\9VwdFxXy.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\VWee43YW.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\HpmmKGHa.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\2XpzL+br.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\8rsOJfQx.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\DzuwIXcu.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\eiLo3fRA.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\s4CaHwgt.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\yk+YlODB.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\+7JV+xzV.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\Mp3gA2Jn.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\yTQlGKDF.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\gHwmkwPE.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\JR0JUKPb.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\JwSBnhva.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\Db4Snhti.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\g+E5wCUS.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\RI7yU9KC.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\oy0Jj4ph.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\EZrpDsAh.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\mzgLl4fa.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\l3HejbXl.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\orGFkXrh.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\4jWT6jaP.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\e5ZKhaR+.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\p3U8idmO.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\qnpiFJBV.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\oofq4Ew1.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\OTQIUaoR.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\8wqNc0jx.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\ZY5qMzU+.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\VkfsPMSq.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\i7UbOHpO.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\dAaAfSE1.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\+sbszAQn.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\Y42tHXJP.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\Aa8uYjfV.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\He8jIrIy.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\QaVLtDFu.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\yIVU36yx.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\BMOOV+Vp.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\Bc5x3nKp.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\NWqJU57w.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\Oll22sfP.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\rpv5yuyH.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\f+ycgMfb.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\N9Bes1+C.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\ZX+z4Mko.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\GzIgJGr+.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\VF9ektJb.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\KHg0eAxN.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\GgcsLcir.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\P2dbzF04.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\bikUqjwc.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\uck+VSi7.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\s77LrbmR.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\fnFjgm8o.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\W+KpZ+VF.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\usmd0sXe.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\jos97EZQ.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\yglcdzV7.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\b97xgUnW.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\CSvFtMPz.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\JGGnM9ZG.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\AUdZ7Rph.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\+uCo6hhl.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\5iYIAuyS.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\uX9YUC72.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\igBYMtKU.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\yxNEeCnY.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\28+jwoxv.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\LayyvhKB.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\QR6MsCA9.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\16VD7n+w.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\wCC8QCoM.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\0fQImMI+.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\ENsFbb9l.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\3S4qTxUK.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\a8qVrPQE.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\B6SInIbv.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\gMNF0ddy.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\bdbWKf9U.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\pm4P+loP.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\7qdHvz9q.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\37+Y+8Kw.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\Hl1Fhcxg.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\30uBn+rF.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\1zMgERo7.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\3xBvgQSk.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\rB5RJjAU.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\hBKL580T.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\NxPrlsPT.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\APeuJBuw.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\i9RJEq2Z.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\1x+7w7QM.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\t7MGOhgt.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\fE8spPOr.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\85aJiN0Z.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\brkLlhwa.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\4pNDQoMo.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\LaWX0OtD.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\azcgUcBe.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\mJOSXF2V.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\t15B6OK8.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\scFM85Sv.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\tmx1D1CW.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\0WhI55yf.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\jG25SG1N.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\qtSW3ISj.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\yczZWVQU.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\+Lli6yaF.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\iYsyauCd.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\q2Uv+1yG.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\A3NGT550.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\3CzBijp+.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\6krhHk3D.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\H2J91kyR.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\S3XxtvT1.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\EqJOXWkG.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\DXMH1Q39.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\ugBN9UTh.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\uHkRzguf.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\vXaxfVxW.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\jiRNX+U+.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\ACD+Td92.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\jLQIwIOR.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\ff6qpaOx.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\DcxQPL7t.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\6zPZoOSm.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\z+ocbiuw.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\bezDOrYz.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\Izi6joe3.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\31vi4dYx.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\Wp+kA9j2.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\Lsjw2vVB.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\fbvR1X1p.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\Fehh+lgz.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\Qj1RGY70.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\g+fK5Gah.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\YtGucNIw.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\bXU8hsmH.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\9vCSP16M.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\UoqgMvOG.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\PHfO2z59.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\vKquseqd.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\H6BhTcDR.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\crJ3nl3z.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\84+8xjl+.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\AddfTFLa.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\8lv9C44e.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\1aKXoezM.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\l+tbM8je.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\ca8vO56f.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\KkL7aaCe.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\o8FoApBu.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\nYv2HJO1.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\8Y44JiKC.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\uhk1kozR.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\BkB5bPuf.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\l0+nnVAe.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\YyDUmGCu.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\81g0GDaA.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\5PQuXlnG.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\mjI80IO7.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\yAUSivE5.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\a3+5FrGP.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\75zWG0C4.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\cQARxhCK.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\pGhS+uxA.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\ZAET5K9E.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\oqbXyYxz.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\kt5bpdkR.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\gcs8xoHp.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\bwXsdEgi.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\vSgsjcc3.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\meND857d.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\dD6ARQyE.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\2V8b+4Ut.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\ZGa7DNdx.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\build-gz\8H5WY26G.gz
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\blazor.boot.json
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\staticwebassets\msbuild.R54_M14_Class_04_Work_01.Client.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\staticwebassets\msbuild.build.R54_M14_Class_04_Work_01.Client.props
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.R54_M14_Class_04_Work_01.Client.props
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.R54_M14_Class_04_Work_01.Client.props
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\R54_M14_Class_04_Work_01.Client.dll
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\refint\R54_M14_Class_04_Work_01.Client.dll
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\R54_M14_Class_04_Work_01.Client.pdb
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\blazor.build.boot-extension.json
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\staticwebassets.build.json
+C:\Module 1-11\Module-14 Blazor\Class-6 Bootstrap Masters Details Crud with image\Class 04\R54_M14_Class_04_Works\R54_M14_Class_04_Work_01\Client\obj\Debug\net7.0\staticwebassets.development.json

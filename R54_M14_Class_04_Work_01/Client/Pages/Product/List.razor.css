@@ -1,0 +1,21 @@
+﻿.list-card{
+    width: 60%;
+    margin:15px auto;
+}
+.list-card-header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 15px;
+
+}
+.hide 
+{
+    display:none;
+}
+@media  screen and (max-width: 600px){
+    .list-card {
+        width: 97.5%;
+        margin: 15px auto;
+    }
+}

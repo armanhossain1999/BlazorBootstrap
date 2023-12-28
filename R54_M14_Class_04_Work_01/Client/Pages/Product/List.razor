@@ -1,0 +1,106 @@
+﻿@page "/products"
+@inject HttpClient http
+<div class="card list-card bg-primary text-white">
+    <div class="list-header">
+        <div class="list-card-header">
+        <h5 class="card-title">Products</h5>
+       
+        <NavLink href="/products/create" class="btn btn-secondary btn-sm"><i class="bi bi-plus"></i></NavLink>
+        </div>
+    </div>
+    <div class="card-body bg-white">
+        
+        @if(model is null)
+        {
+            <LoadingIndicator />
+        }
+        else
+        {
+            
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th></th>
+                        <th></th>
+                        <th>Name</th>
+                        <th>Size</th>
+                        <th>Price</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach(var p in model)
+                    {
+                        <tr>
+                            <td>
+                                @if (selectedProductId == p.ProductId)
+                                {
+                                    <button @onclick="()=>unselect(p)" type="button" class="btn btn-sm">
+
+                                        <i class="bi bi-caret-down-fill"></i>
+                                    </button>
+                                }
+                                else
+                                {
+                                    <button @onclick="()=>select(p)" type="button" class="btn btn-sm">
+
+                                        <i class="bi bi-caret-right-fill"></i>
+                                    </button>
+                                }
+
+                            </td>
+                            <td>
+                                <img src="/Pictures/@p.Picture" style="width:40px" class="rounded-circle" />
+                            </td>
+                            <td>@p.ProductName</td>
+                            <td>@p.Size</td>
+                            <td>@p.Price?.ToString("0.00")</td>
+                        </tr>
+                        <tr class="@(selectedProductId == p.ProductId ? "": "hide")">
+                            <td></td>
+                            <td colspan="4">
+                                <h6 class="card-subtitle mb-2 text-muted">Sales</h6>
+                                <table class="table table-bordered">
+                                    <thead>
+                                        <tr>
+                                            <th>Date</th>
+                                            <th>Quantity</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        @foreach(var s in p.Sales)
+                                        {
+                                            <tr>
+                                                <td>@s.Date?.ToString("yyyy-MM-dd")</td>
+                                                <td>@s.Quantity</td>
+                                            </tr>
+                                        }
+                                    </tbody>
+                                </table>
+                            </td>
+                        </tr>
+
+                    }
+                </tbody>
+            </table>
+        }
+       
+    </div>
+</div>
+
+@code {
+    List<Product>? model = null;
+    int selectedProductId=-1;
+    protected async override Task OnInitializedAsync()
+    {
+        model = await this.http.GetFromJsonAsync<List<Product>>("/api/products/Sales/Include");
+        Console.WriteLine(model);
+    }
+    private void select(Product p)
+    {
+        this.selectedProductId = p.ProductId;
+    }
+    private void unselect(Product p)
+    {
+        this.selectedProductId =-1;
+    }
+}

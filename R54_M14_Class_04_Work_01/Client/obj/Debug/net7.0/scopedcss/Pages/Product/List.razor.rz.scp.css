@@ -1,0 +1,21 @@
+.list-card[b-93me388d6b]{
+    width: 60%;
+    margin:15px auto;
+}
+.list-card-header[b-93me388d6b] {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 15px;
+
+}
+.hide[b-93me388d6b] 
+{
+    display:none;
+}
+@media  screen and (max-width: 600px){
+    .list-card[b-93me388d6b] {
+        width: 97.5%;
+        margin: 15px auto;
+    }
+}

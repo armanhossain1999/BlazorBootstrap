@@ -1,0 +1,200 @@
+﻿@page "/products/create"
+@using System.Net.Http.Headers;
+@inject HttpClient http
+@* //Microsoft.AspNetCore.Components.DataAnnotations.Validation *@
+
+@inject HttpClient http
+<div class="row">
+    <div class="col-12">
+
+    </div>
+    <div class="col-12">
+        <EditForm  Model="model" OnValidSubmit="Save">
+            <div>
+                <h3>Create new product</h3>
+                @if (IsSuccess is not null && IsSuccess.Value)
+                {
+                    <div class="alert alert-success alert-dismissible fade show" role="alert">
+                        <strong>Success!</strong> Data saved.
+                        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                    </div>
+                }
+                @if (IsSuccess is not null && !IsSuccess.Value)
+                {
+                    <div class="alert alert-warning alert-dismissible fade show" role="alert">
+                        <strong>Error!</strong> Failed to save data.
+                        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                    </div>
+                }
+                <ObjectGraphDataAnnotationsValidator />
+               
+            </div>
+            <div class="form-group row mb-1">
+                <label class="col-form-label col-2">Product name</label>
+                <div class="col-4">
+                    <InputText @bind-Value="@model.ProductName" class="form-control" />
+                    <ValidationMessage class="text-danger" For="@(()=> model.ProductName)"></ValidationMessage>
+                </div>
+            </div>
+            <div class="form-group row mb-1">
+                <label class="col-form-label col-2">Product price</label>
+                <div class="col-4">
+                    <InputNumber @bind-Value="@model.Price" class="form-control" />
+                    <ValidationMessage class="text-danger" For="@(()=> model.Price)"></ValidationMessage>
+                </div>
+            </div>
+            <div class="form-group row mb-1">
+                <label class="col-form-label col-2">Product size</label>
+                <div class="col-4">
+                    <InputSelect @bind-Value="@model.Size" class="form-select">
+                        @foreach(var s in Enum.GetNames(typeof(Size)))
+                        {
+                            <option>@s</option>
+                        }
+                    </InputSelect>
+                    <ValidationMessage class="text-danger" For="@(()=> model.Size)"></ValidationMessage>
+                </div>
+            </div>
+            <div class="form-group row mb-1">
+                <label class="col-form-label col-2">Product picture</label>
+                <div class="col-4">
+                    <InputFile OnChange="@LoadFile" @bind-Value="@model.Picture" class="form-control" />
+                    <ValidationMessage class="text-danger" For="@(()=> model.Picture)"></ValidationMessage>
+                </div>
+            </div>
+            <div class="form-group row mb-1">
+                
+                <div class="col-4 offset-2">
+                    <div class="form-check">
+                        <InputCheckbox @bind-Value="@model.OnSale" class="form-check-input" type="checkbox"  id="flexCheckDefault" />
+                        <label class="form-check-label" for="flexCheckDefault">
+                            On Sale?
+                        </label>
+                    </div>
+                </div>
+            </div>
+            <div class="form-group row mb-1">
+                <div class="col-6">
+                    <h4>Salse</h4>
+                    <table class="table table-bordered">
+                        <thead>
+                            <tr>
+                                <th>Date</th>
+                                <th>Quantity</th>
+                                <th>
+                                    <button @onclick="AddSale" type="button" class="btn btn-secondary btn-sm"><i class="bi bi-plus"></i></button>
+                                </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                          
+                            @foreach(var s in model.Sales)
+                            {
+                                
+
+                                <tr >
+                                    <td>
+                                        <InputDate  Type="InputDateType.Date" @bind-Value="s.Date" class="form-control" />
+                                        <ValidationMessage  class="text-danger" For="@(()=> s.Date)"></ValidationMessage>
+                                    </td>
+                                    <td>
+                                        <InputNumber @bind-Value="s.Quantity" class="form-control" />
+                                        <ValidationMessage class="text-danger" For="@(()=>s.Quantity)"></ValidationMessage>
+                                    </td>
+                                    <td>
+                                        <button @onclick="()=> DeleteSale(s.SaleId)" type="button" class="btn btn-danger btn-sm"><i class="bi bi-trash"></i></button>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <div class="form-group row mb-1">
+
+                <div class="col-4 offset-2 text-end">
+                    <div class="form-check">
+                       <button type="submit" class="btn btn-primary">Save</button>
+                    </div>
+                </div>
+            </div>
+        </EditForm>
+    </div>
+</div>
+@code {
+    ProductInputModel model = new();
+    private IBrowserFile? file=null;
+    private bool? IsSuccess = null;
+    protected async override Task OnInitializedAsync()
+    {
+        this.model.Sales.Add(new Sale());
+        await Task.CompletedTask;
+    }
+    private void LoadFile(InputFileChangeEventArgs e)
+    {
+        this.file = e.File;
+        this.model.Picture = this.file.Name;
+
+    }
+    private void DeleteSale(int sid)
+    {
+        var s = this.model.Sales.FirstOrDefault(x => x.SaleId == sid);
+        if (s is null) return;
+        else
+        {
+            this.model.Sales.Remove(s);
+        }
+    }
+    private void AddSale()
+    {
+        this.model.Sales.Add(new Sale());
+    }
+    private async Task Save()
+    {
+        IsSuccess = null;
+        var r = await UploadImage();
+
+        if (r.ImageName != string.Empty)
+        {
+            this.model.Picture = r.ImageName;
+        }
+        else
+        {
+            IsSuccess = false;
+            return;
+
+        }
+        var data= await this.http.PostAsJsonAsync<ProductInputModel>("/api/Products/VM", this.model);
+        if (data.IsSuccessStatusCode)
+        {
+            this.IsSuccess = true;
+            this.model = new();
+            this.file = null;
+            this.model.Sales.Add(new Sale());
+        }
+        else
+        {
+            IsSuccess = false;
+        }
+    }
+    public async Task<UploadResponse> UploadImage()
+    {
+
+        if (file is not null)
+        {
+            var content = new MultipartFormDataContent();
+            var fileContent = new StreamContent(file.OpenReadStream(long.MaxValue));
+
+            fileContent.Headers.ContentType = new MediaTypeHeaderValue(file.ContentType);
+            content.Add(content: fileContent, name: "\"file\"", fileName: file.Name);
+            var response = await http.PostAsync("api/Products/Upload", content);
+            var r = await response.Content.ReadFromJsonAsync<UploadResponse>();
+            if (r is null) return new UploadResponse();
+            else return r;
+        }
+
+
+
+        return new UploadResponse();
+    }
+}
